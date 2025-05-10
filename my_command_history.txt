@@ -21,3 +21,31 @@
 06-05-2025 18:59:56  405  ls
 06-05-2025 19:00:03  406  clear
 06-05-2025 19:00:07  407  git add .
+10-05-2025 01:26:10  393  cd Image-Manipulation-With-Pillow/
+10-05-2025 01:26:21  394  ls
+10-05-2025 01:26:38  395  git pull
+10-05-2025 13:59:07  391  -----END RSA PRIVATE KEY-----
+10-05-2025 13:59:40  391  -----END RSA PRIVATE KEY-----
+10-05-2025 13:59:54  392  python 01_pillow_basic.py 
+10-05-2025 14:02:03  393  python 01_pillow_basic.py 
+10-05-2025 14:02:16  394  python 01_pillow_basic.py 
+10-05-2025 14:04:47  395  python 01_pillow_basic.py 
+10-05-2025 14:05:04  396  python 01_pillow_basic.py 
+10-05-2025 14:05:12  397  python 01_pillow_basic.py 
+10-05-2025 14:05:24  398  python 01_pillow_basic.py 
+10-05-2025 14:05:38  399  python 01_pillow_basic.py 
+10-05-2025 14:07:10  400  python 01_pillow_basic.py 
+10-05-2025 14:08:25  401  python 01_pillow_basic.py 
+10-05-2025 14:08:55  402  python 01_pillow_basic.py 
+10-05-2025 14:09:44  403  python 01_pillow_basic.py 
+10-05-2025 14:09:53  404  python 01_pillow_basic.py 
+10-05-2025 14:10:12  405  python 01_pillow_basic.py 
+10-05-2025 14:10:59  406  python 01_pillow_basic.py 
+10-05-2025 14:11:58  407  python 01_pillow_basic.py 
+10-05-2025 14:12:08  408  python 01_pillow_basic.py 
+10-05-2025 14:12:16  409  python 01_pillow_basic.py 
+10-05-2025 14:12:43  410  python 01_pillow_basic.py 
+10-05-2025 14:13:23  411  python 01_pillow_basic.py 
+10-05-2025 14:15:15  412  python 01_pillow_basic.py 
+10-05-2025 14:16:00  413  python 01_pillow_basic.py 
+10-05-2025 14:19:38  414  git add .
