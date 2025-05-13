@@ -1,11 +1,6 @@
-06-05-2025 09:40:53  391  -----END RSA PRIVATE KEY-----
-06-05-2025 18:46:23  391  -----END RSA PRIVATE KEY-----
-06-05-2025 18:46:24  391  -----END RSA PRIVATE KEY-----
 06-05-2025 18:46:44  392  pip install pillow
 06-05-2025 18:48:08  393  python 01_pillow_basic.py 
-06-05-2025 18:56:12  391  -----END RSA PRIVATE KEY-----
 06-05-2025 18:56:22  392  git init
-06-05-2025 18:56:23  391  -----END RSA PRIVATE KEY-----
 06-05-2025 18:57:11  393  git remote add https://github.com/shishirRsiam/Image-Manipulation-With-Pillow.git
 06-05-2025 18:57:31  394  git remote add origin mainhttps://github.com/shishirRsiam/Image-Manipulation-With-Pillow.git
 06-05-2025 18:57:38  395  git remote add origin main https://github.com/shishirRsiam/Image-Manipulation-With-Pillow.git
@@ -24,8 +19,6 @@
 10-05-2025 01:26:10  393  cd Image-Manipulation-With-Pillow/
 10-05-2025 01:26:21  394  ls
 10-05-2025 01:26:38  395  git pull
-10-05-2025 13:59:07  391  -----END RSA PRIVATE KEY-----
-10-05-2025 13:59:40  391  -----END RSA PRIVATE KEY-----
 10-05-2025 13:59:54  392  python 01_pillow_basic.py 
 10-05-2025 14:02:03  393  python 01_pillow_basic.py 
 10-05-2025 14:02:16  394  python 01_pillow_basic.py 
@@ -91,21 +84,21 @@
 10-05-2025 15:26:20  454  python 03_Image_filters.py 
 10-05-2025 15:26:50  455  python 03_Image_filters.py 
 10-05-2025 15:26:52  456  python 03_Image_filters.py 
-10-05-2025 15:35:03  391  -----END RSA PRIVATE KEY-----
-10-05-2025 21:16:38  391  -----END RSA PRIVATE KEY-----
-10-05-2025 21:16:51  391  -----END RSA PRIVATE KEY-----
 10-05-2025 21:17:00  392  git add .
 10-05-2025 21:17:02  393  git commit -am "03_Image_Metadata"
 10-05-2025 21:17:08  394  git push
 10-05-2025 21:31:00  394  git push
 10-05-2025 21:31:12  395  pip install --upgrade pip
-11-05-2025 09:23:19  391  -----END RSA PRIVATE KEY-----
-11-05-2025 09:23:19  391  -----END RSA PRIVATE KEY-----
-11-05-2025 12:29:30  391  -----END RSA PRIVATE KEY-----
-11-05-2025 12:29:32  391  -----END RSA PRIVATE KEY-----
-11-05-2025 15:52:29  391  -----END RSA PRIVATE KEY-----
-11-05-2025 15:52:32  391  -----END RSA PRIVATE KEY-----
 11-05-2025 16:09:12  392  git add .
 11-05-2025 16:09:16  393  git commit -am "04_Roted_Flip_Crop_Scale"
 11-05-2025 16:09:57  394  git push
 11-05-2025 16:12:16  395  git push
+11-05-2025 16:12:43  396  git commit -am "04_Roted_Flip_Crop_Scale"
+11-05-2025 16:12:48  397  git push
+11-05-2025 23:03:32  392  "New Terminal"
+12-05-2025 17:46:18  392  "New Terminal"
+12-05-2025 17:46:37  392  "New Terminal"
+12-05-2025 17:47:16  393  python 00_Open_Online_Image.py 
+13-05-2025 20:12:03  392  "New Terminal"
+13-05-2025 20:12:04  392  "New Terminal"
+13-05-2025 21:44:25  393  git add .
